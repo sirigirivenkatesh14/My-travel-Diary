@@ -36,7 +36,7 @@ body {
 /* HERO */
 .hero {
   height: 100vh;
-  background: url("https://i.ibb.co/fd7FVHMt/IMG-8805.jpg");
+  background: <img src="profile.png" alt="Profile Image">;
   background-size: cover;
   background-position: center;
   display: flex;
@@ -112,7 +112,7 @@ body {
 .about-banner {
   position: relative;
   height: 100vh;
-  background: url("https://i.ibb.co/MyrFtCyR/ade6debf-9358-4a53-ad36-583add83fee3.jpg");
+  background: <img src="https://i.ibb.co/GfWP14QS/ade6debf-9358-4a53-ad36-583add83fee3.jpg" alt="Profile Image">
   background-size: cover;
   background-position: center;
 }
